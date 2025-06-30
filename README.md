@@ -1,6 +1,9 @@
 # Jouvi - Gamified Career Roadmap Generator
 
 Jouvi is an innovative platform designed to empower individuals in their career journeys. It provides personalized, gamified career roadmaps, expert mentorship, and advanced tools for career exploration and planning.
+## 🔗 Deployment
+The application is live and accessible at:  
+👉 https://jolly-bublanina-7de884.netlify.app/
 
 ## Features
 
