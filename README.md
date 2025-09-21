@@ -43,6 +43,14 @@ The application is live and accessible at:
 *   **Socket.io:** For real-time, bidirectional communication (though currently not heavily utilized in the provided code).
 *   **Helmet, Cors, Compression, Morgan, Rate Limit, Mongo Sanitize, XSS Clean, HPP:** Security and performance middleware.
 
+### Cloud & AI
+
+Google Cloud Generative AI – Personalized career recommendations & skill mapping
+
+Google Cloud Storage / Firestore – Data handling & scalability
+
+Google Cloud Deployment (Cloud Run / App Engine) – For hosting backend services
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
