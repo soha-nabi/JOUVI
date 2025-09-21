@@ -45,11 +45,9 @@ The application is live and accessible at:
 
 ### Cloud & AI
 
-Google Cloud Generative AI – Personalized career recommendations & skill mapping
-
-Google Cloud Storage / Firestore – Data handling & scalability
-
-Google Cloud Deployment (Cloud Run / App Engine) – For hosting backend services
+* Google Cloud Generative AI – Personalized career recommendations & skill mapping
+* Google Cloud Storage / Firestore – Data handling & scalability
+* Google Cloud Deployment (Cloud Run / App Engine) – For hosting backend services
 
 ## Prerequisites
 
